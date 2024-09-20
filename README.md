@@ -5,13 +5,12 @@
 
 
 # 💫 About Me:
+
+<img align="right" alt="coding" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="250" />
 - Hey there! - 👋 Hi, I’m Gourav Mangal a Software Engineer. With my extensive knowledge of programming languages, software development methodologies, and software engineering principles, I possess a strong foundation in the IT field. I can contribute to developing and maintaining complex software systems, ensuring high-quality code and robust architecture. I excel in problem-solving and critical thinking. I can analyze complex issues, break them into manageable components, and provide creative solutions. I can quickly familiarize myself with new frameworks, programming languages, or tools, allowing me to stay up-to-date with industry trends and best practices. I can engage in discussions, provide insights, and understand the needs of stakeholders. I can also provide clear explanations of complex technical concepts.
 
 - 👀 I’m interested in java 
 - 🌱 I’m currently working on Back-end development.
-<img align="center" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-
-<br>
 
 # Let's Connect
 <a href="https://www.linkedin.com/in/gourav7597/" target="_blank">
