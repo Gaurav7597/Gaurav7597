@@ -23,11 +23,11 @@
   <img src="https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode" alt="LeetCode Profile" />
 </a>
 &nbsp;
-<a href="https://auth.geeksforgeeks.org/user/your-username" target="_blank">
+<a href="https://auth.geeksforgeeks.org/user/gouravmangal2001" target="_blank">
   <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-brightgreen?logo=geeksforgeeks" alt="GeeksforGeeks Profile" />
 </a>
 &nbsp;
-<a href="https://wa.me/your-phone-number" target="_blank">
+<a href="https://wa.me/9461312433" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-Chat-brightgreen?logo=whatsapp" alt="WhatsApp Chat" />
 </a>
 
