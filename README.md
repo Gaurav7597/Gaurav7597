@@ -1,5 +1,6 @@
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Gaurav7597&label=Profile%20Views&pretty=false" />
+  <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/chill%20scene.gif" />
 </a>
 
 
@@ -8,6 +9,9 @@
 
 - 👀 I’m interested in java 
 - 🌱 I’m currently working on Back-end development.
+<img align="center" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+<br>
 
 # Let's Connect
 <a href="https://www.linkedin.com/in/gourav7597/" target="_blank">
@@ -45,6 +49,8 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
