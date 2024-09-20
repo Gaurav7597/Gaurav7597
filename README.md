@@ -14,12 +14,12 @@
   <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" alt="LinkedIn Profile" />
 </a>
 &nbsp;
-<a href="mailto:your-email@gmail.com" target="_blank">
+<a href="mailto:Gouravmangal2001@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-Contact-D14836?logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 &nbsp;
 <br>
-<a href="https://leetcode.com/your-username" target="_blank">
+<a href="https://leetcode.com/u/gouravmangal62/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode" alt="LeetCode Profile" />
 </a>
 &nbsp;
